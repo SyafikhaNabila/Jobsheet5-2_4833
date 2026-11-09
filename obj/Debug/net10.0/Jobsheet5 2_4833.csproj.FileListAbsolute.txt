@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\bin\Debug\net10.0\Jobsheet5 2_4833.exe
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\bin\Debug\net10.0\Jobsheet5 2_4833.deps.json
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\bin\Debug\net10.0\Jobsheet5 2_4833.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\bin\Debug\net10.0\Jobsheet5 2_4833.dll
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\bin\Debug\net10.0\Jobsheet5 2_4833.pdb
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.dll
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\refint\Jobsheet5 2_4833.dll
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.pdb
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\Jobsheet5 2_4833.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\DPK-PPLG\Semester-Ganjil\bab05_02\Jobsheet5 2_4833\obj\Debug\net10.0\ref\Jobsheet5 2_4833.dll
